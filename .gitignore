@@ -1,0 +1,9 @@
+
+*.metadata
+*.log
+*.temp
+*.classpath
+*.project
+*.settings
+*.idea
+*.recommenders
